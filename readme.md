@@ -1,5 +1,6 @@
-# Flask　勉強
+# flaskBookStd
 
+## コマンド
 **起動**
 flask run
 
